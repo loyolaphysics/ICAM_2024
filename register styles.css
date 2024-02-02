@@ -10,7 +10,7 @@ body{
     border: solid rgb(202, 201, 201) 2px;
     border-radius: 30px;
     margin: 40px;
-    height: 850px;
+    height: 1350px;
 }
 .code{
     position: relative;
@@ -34,16 +34,34 @@ body{
 }
 .names{
     font-size: 25px;
-    color: rgb(198, 14, 14);
+    color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     bottom:370px;
 }
 .name_p{
+    position: relative;
+    bottom: 360px;
     font-size: px;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 .line{
     width: 300px;
+}
+
+.names_A{
+    color: rgb(127, 5, 5);
+
+}
+
+#gl{
+    font-size:30px;
+    font-family: sans-serif;
+}
+
+#conv{
+    color: rgb(127, 5, 5);
+    position: relative;
+    bottom: 360px;
 }
